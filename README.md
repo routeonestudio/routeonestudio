@@ -1,4 +1,4 @@
-- 👋 Ydwoh, I’m @routeonestudio
+- 👋 Ydwoh, I’m Dave! Welcome to @routeonestudio's Git repo's
 - 👀 I’m interested in Music Production, OpenSource, Linux & FreeBSD.
 - 🌱 I’m currently learning everthing, because everything changes daily!
 - 💞️ I’m looking to collaborate on home recording related projects. 
