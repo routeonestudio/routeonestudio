@@ -2,7 +2,6 @@
 - 👀 I’m interested in Music Production, OpenSource, Linux & FreeBSD.
 - 🌱 I’m currently learning everthing, because everything changes daily!
 - 💞️ I’m looking to collaborate on home recording related projects. 
-- 📫 How to reach me www.routeonestudio.com 
 
 <!---
 routeonestudio/routeonestudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
