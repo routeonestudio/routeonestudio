@@ -1,1 +1,1 @@
-- 👋 Welcome to @tinmansgit repo's
+- 👋 Welcome to Tin Man's Repo's - @tinmansgit
