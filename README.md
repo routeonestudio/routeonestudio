@@ -1,4 +1,2 @@
 - 👋 Welcome to Tin Man's Repo's - @tinmansgit
-- These scripts are my alternative to heavy loaded and memory eating apps
-- They evolve over time, only adding features as needed
-- Keep It Simple Stupid!
+
